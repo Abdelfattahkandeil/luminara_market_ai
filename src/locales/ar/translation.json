@@ -1,0 +1,99 @@
+{
+  "app": {
+    "name": "لومينا ماركت",
+    "slogan": "اكتشف منتجات عالية الجودة بأسعار مذهلة"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "cart": "عربة التسوق",
+    "wishlist": "المفضلة",
+    "profile": "الملف الشخصي",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "logout": "تسجيل الخروج"
+  },
+  "home": {
+    "featuredProducts": "منتجات مميزة",
+    "categories": "تسوق حسب الفئة",
+    "newArrivals": "وصل حديثاً",
+    "bestSellers": "الأكثر مبيعاً",
+    "specialOffers": "عروض خاصة"
+  },
+  "products": {
+    "search": "البحث عن المنتجات...",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "priceRange": "نطاق السعر",
+    "categories": "الفئات",
+    "brands": "العلامات التجارية",
+    "availability": "التوفر",
+    "inStock": "متوفر",
+    "outOfStock": "غير متوفر",
+    "addToCart": "أضف إلى العربة",
+    "addToWishlist": "أضف إلى المفضلة",
+    "removeFromWishlist": "إزالة من المفضلة",
+    "compare": "مقارنة"
+  },
+  "product": {
+    "description": "الوصف",
+    "specifications": "المواصفات",
+    "reviews": "التقييمات",
+    "relatedProducts": "منتجات ذات صلة",
+    "writeReview": "اكتب تقييماً"
+  },
+  "cart": {
+    "title": "عربة التسوق",
+    "empty": "عربة التسوق فارغة",
+    "continueShopping": "مواصلة التسوق",
+    "proceedToCheckout": "إتمام الشراء",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "total": "الإجمالي",
+    "remove": "إزالة",
+    "update": "تحديث"
+  },
+  "checkout": {
+    "title": "إتمام الشراء",
+    "shippingAddress": "عنوان الشحن",
+    "paymentMethod": "طريقة الدفع",
+    "orderSummary": "ملخص الطلب",
+    "placeOrder": "تأكيد الطلب",
+    "orderSuccess": "تم تقديم الطلب بنجاح",
+    "orderDetails": "تفاصيل الطلب"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "newAccount": "إنشاء حساب جديد",
+    "alreadyAccount": "لديك حساب بالفعل؟"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "personalInfo": "المعلومات الشخصية",
+    "orders": "الطلبات",
+    "addresses": "العناوين",
+    "wishlist": "المفضلة",
+    "settings": "الإعدادات",
+    "addAddress": "إضافة عنوان جديد",
+    "editAddress": "تعديل العنوان"
+  },
+  "common": {
+    "loading": "جاري التحميل",
+    "error": "حدث خطأ",
+    "retry": "إعادة المحاولة",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "submit": "إرسال"
+  }
+}

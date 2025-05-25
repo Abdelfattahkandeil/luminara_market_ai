@@ -1,0 +1,99 @@
+{
+  "app": {
+    "name": "Lumina Market",
+    "slogan": "Discover quality products at amazing prices"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "profile": "Profile",
+    "login": "Log in",
+    "register": "Register",
+    "logout": "Log out"
+  },
+  "home": {
+    "featuredProducts": "Featured Products",
+    "categories": "Shop by Category",
+    "newArrivals": "New Arrivals",
+    "bestSellers": "Best Sellers",
+    "specialOffers": "Special Offers"
+  },
+  "products": {
+    "search": "Search products...",
+    "filter": "Filter",
+    "sort": "Sort",
+    "priceRange": "Price Range",
+    "categories": "Categories",
+    "brands": "Brands",
+    "availability": "Availability",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "compare": "Compare"
+  },
+  "product": {
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products",
+    "writeReview": "Write a Review"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "proceedToCheckout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "remove": "Remove",
+    "update": "Update"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shippingAddress": "Shipping Address",
+    "paymentMethod": "Payment Method",
+    "orderSummary": "Order Summary",
+    "placeOrder": "Place Order",
+    "orderSuccess": "Order Placed Successfully",
+    "orderDetails": "Order Details"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "login": "Log In",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "newAccount": "Create New Account",
+    "alreadyAccount": "Already have an account?"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "orders": "Orders",
+    "addresses": "Addresses",
+    "wishlist": "Wishlist",
+    "settings": "Settings",
+    "addAddress": "Add New Address",
+    "editAddress": "Edit Address"
+  },
+  "common": {
+    "loading": "Loading",
+    "error": "Error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit"
+  }
+}
